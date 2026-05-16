@@ -1,15 +1,15 @@
-# Connect 4 - AI Game 🎮
+# Connect 4 - AI Game 
 
 A terminal-based Connect 4 game with an AI opponent using the **Minimax Algorithm**.
 
 ---
 
-## 👩‍💻 Developer
+##  Developer
 - Abeer
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 | File | Description |
 |------|-------------|
@@ -21,7 +21,7 @@ A terminal-based Connect 4 game with an AI opponent using the **Minimax Algorith
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 python main.py
@@ -29,14 +29,14 @@ python main.py
 
 ---
 
-## 🎮 Game Modes
+##  Game Modes
 
 - **Human vs AI** → Play against the Minimax AI
 - **Human vs Human** → Play with a friend
 
 ---
 
-## 🧠 AI Strategy
+##  AI Strategy
 
 The AI uses the **Minimax Algorithm** with:
 - Depth of 5 moves ahead
