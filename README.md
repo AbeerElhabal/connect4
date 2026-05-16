@@ -45,7 +45,7 @@ The AI uses the **Minimax Algorithm** with:
 
 ---
 
-## 📚 Course Info
+##  Course Info
 
 - **Course:** Artificial Intelligence 2025/2026
 - **Project:** Adversarial Search - Connect 4
